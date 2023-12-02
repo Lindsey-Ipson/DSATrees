@@ -48,7 +48,7 @@ class Tree {
 
   /** numGreater(lowerBound): return a count of the number of nodes
    * whose value is greater than lowerBound. */
-
+  
   numGreater(lowerBound) {
     if (!this.root) return 0;
 
